@@ -3,3 +3,5 @@ psycopg2-binary
 bcrypt
 pandas
 scikit-learn
+PyPDF2
+python-docx
