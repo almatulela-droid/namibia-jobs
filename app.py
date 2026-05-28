@@ -10,7 +10,7 @@ from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
 # Page config
-st.set_page_config(page_title="Namibia Gov Jobs", page_icon="🇳🇦", layout="wide")
+st.set_page_config(page_title="Namibia Gov Jobs", page_icon=" ", layout="wide")
 
 # Custom CSS
 st.markdown("""
