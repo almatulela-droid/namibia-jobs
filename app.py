@@ -130,7 +130,7 @@ if 'logged_in' not in st.session_state:
     st.session_state.logged_in = False
 
 # Header
-st.markdown("<h1 style='text-align:center; color:white;'>🇳🇦 Namibia Government Job Portal</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align:center; color:white;'>Namibia Government Job matching Portal</h1>", unsafe_allow_html=True)
 
 # Login/Signup
 if not st.session_state.logged_in:
